@@ -1,0 +1,11 @@
+*node_modules
+
+*.next
+*.env
+*.env.local
+*env.example
+*.env.example
+*.log
+
+*.lock
+package-lock.json
